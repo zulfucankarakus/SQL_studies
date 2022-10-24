@@ -1,0 +1,2 @@
+rootProject.name='KisilerUygulamasi'
+include ':app'
